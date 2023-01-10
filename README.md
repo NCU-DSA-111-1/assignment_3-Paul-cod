@@ -1,3 +1,4 @@
+# 109503003 陳柏禎 通訊三
 # Two Coding Way Comparison
 # Arithmetic Coding
 1. 進入coding_compare檔案夾之下   
